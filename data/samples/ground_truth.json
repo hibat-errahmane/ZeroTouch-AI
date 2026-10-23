@@ -1,0 +1,35 @@
+[
+  {
+    "file": "invoice_1.pdf",
+    "invoice_number": "SYN-2026-001",
+    "vendor": "Imaginary Orbit Supplies",
+    "customer": "Fictional Demo Customer",
+    "date": "2026-10-20",
+    "currency": "USD",
+    "subtotal": "100.00",
+    "tax": "20.00",
+    "total": "120.00"
+  },
+  {
+    "file": "invoice_2.pdf",
+    "invoice_number": "SYN-2026-002",
+    "vendor": "Fictional Fern Studio",
+    "customer": "Fictional Demo Customer",
+    "date": "2026-10-20",
+    "currency": "USD",
+    "subtotal": "100.00",
+    "tax": "20.00",
+    "total": "120.00"
+  },
+  {
+    "file": "invoice_3.pdf",
+    "invoice_number": "SYN-2026-003",
+    "vendor": "Example Moon Workshop",
+    "customer": "Fictional Demo Customer",
+    "date": "2026-10-20",
+    "currency": "USD",
+    "subtotal": "100.00",
+    "tax": "20.00",
+    "total": "120.00"
+  }
+]

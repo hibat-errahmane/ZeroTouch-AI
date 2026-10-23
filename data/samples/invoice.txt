@@ -1,0 +1,4 @@
+SYNTHETIC INVOICE
+Vendor: Fictional Paper Co
+Invoice: TXT-001
+Total: USD 42.00
